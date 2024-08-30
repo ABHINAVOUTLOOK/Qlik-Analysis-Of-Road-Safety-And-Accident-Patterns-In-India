@@ -12,7 +12,7 @@ Qlik project
 
 **Demonstration Video:** 
 
-**Project Documentation:** 
+**Project Documentation:** https://drive.google.com/file/d/1dpT8eIomDVLQyeVDtFQIosailHXzm20i/view?usp=sharing
 
 **Key Steps:**
 
