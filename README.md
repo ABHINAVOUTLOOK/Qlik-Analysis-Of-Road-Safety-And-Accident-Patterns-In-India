@@ -9,6 +9,7 @@ Qlik project
 **Goal:** To analyze road safety in India using Qlik Sense, identify accident hotspots and trends, forecast potential accidents, and provide actionable insights for targeted interventions.
 
 **Dataset:** Kaggle Road Accidents in India Dataset
+https://www.kaggle.com/datasets/aryakittukrishnasai/road-accidents-in-india
 
 **Demonstration Video:** 
 
