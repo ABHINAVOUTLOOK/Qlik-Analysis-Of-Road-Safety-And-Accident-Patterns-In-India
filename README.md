@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/aryakittukrishnasai/road-accidents-in-india
 
 **Demonstration Video:** https://drive.google.com/file/d/1ONGoiXq8-PWtX-j0NWc5sA5-mCqkICEO/view?usp=sharing
 
-**Project Documentation:** https://drive.google.com/file/d/1dpT8eIomDVLQyeVDtFQIosailHXzm20i/view?usp=sharing
+**Project Documentation:** https://drive.google.com/file/d/1IQk01AyxReT44X8pCKXajMfc07BQ4fYp/view?usp=sharing
 
 **Key Steps:**
 
