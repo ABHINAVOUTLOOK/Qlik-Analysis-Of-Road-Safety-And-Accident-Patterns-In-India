@@ -1,6 +1,6 @@
 # Qlik-Analysis-Of-Road-Safety-And-Accident-Patterns-In-India
 Qlik project
-## **Prompt:** Analyze road safety and accident patterns in India using Qlik Sense, identifying hotspots and trends, forecasting potential accidents, and providing insights for targeted interventions.
+ Analyze road safety and accident patterns in India using Qlik Sense, identifying hotspots and trends, forecasting potential accidents, and providing insights for targeted interventions.
 
 **Here's a comprehensive response incorporating the best aspects of previous responses and addressing the prompt's specific requirements:**
 
